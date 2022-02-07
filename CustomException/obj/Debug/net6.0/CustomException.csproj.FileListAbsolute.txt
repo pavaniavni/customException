@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\CustomException\CustomException\bin\Debug\net6.0\CustomException.exe
+C:\Users\Pavani\source\repos\CustomException\CustomException\bin\Debug\net6.0\CustomException.deps.json
+C:\Users\Pavani\source\repos\CustomException\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+C:\Users\Pavani\source\repos\CustomException\CustomException\bin\Debug\net6.0\CustomException.dll
+C:\Users\Pavani\source\repos\CustomException\CustomException\bin\Debug\net6.0\ref\CustomException.dll
+C:\Users\Pavani\source\repos\CustomException\CustomException\bin\Debug\net6.0\CustomException.pdb
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.dll
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\ref\CustomException.dll
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.pdb
+C:\Users\Pavani\source\repos\CustomException\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
